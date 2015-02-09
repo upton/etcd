@@ -21,12 +21,13 @@ This is a rough outline of what a contributor's workflow looks like:
 - Make sure your commit messages are in the proper format (see below).
 - Push your changes to a topic branch in your fork of the repository.
 - Submit a pull request to coreos/etcd.
+- Your PR must receive a LGTM from two maintainers found in the MAINTAINERS file.
 
 Thanks for your contributions!
 
 ### Code style
 
-The coding style suggested by the Golang community is used in etcd. See [style doc](https://code.google.com/p/go-wiki/wiki/Style) for details.
+The coding style suggested by the Golang community is used in etcd. See the [style doc](https://code.google.com/p/go-wiki/wiki/CodeReviewComments) for details.
 
 Please follow this style to make etcd easy to review, maintain and develop.
 
